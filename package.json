@@ -1,0 +1,17 @@
+{
+  "name": "todoApi-refresher",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "url": "git@github.com:j-gilla/toDoAPI.git",
+    "type": "git"
+  },
+  "author": "gilbertjacke <gilbertjacke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3",
+    "nodemon": "^1.11.0"
+  }
+}
